@@ -1,0 +1,19 @@
+-------------------------------
+Freesound.org (2012). Freesound [online]. Available: http://www.freesound.org 
+Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, released under Creative Commons licenses that allow their reuse.
+-------------------------------
+
+
+This folder contains these sounds from freesound:
+
+bird002.wav by schluppipuppie               	    ( http://freesound.org/people/schluppipuppie/ )
+game_over.wav by Corsica_S                  	    ( http://freesound.org/people/Corsica_S/ )
+Katy_Sings_LaaOooAaa.wav by digifishmusic   	    ( http://freesound.org/people/digifishmusic/ )
+sw_CountDownFrom10.aiff by jppi_Stu         	    ( http://freesound.org/people/jppi_Stu/ )
+do it now 2.wav by ERH                      	    ( http://freesound.org/people/ERH/ )
+no noo exclamation male.wav by klankbeeld   	    ( http://freesound.org/people/klankbeeld/ )
+hanstimm_laughs_a4.aiff by hanstimm         	    ( http://freesound.org/people/hanstimm/ )
+ramblin 12beat Dmaj 110.wav by simondsouza  	    ( http://freesound.org/people/simondsouza/ )
+90_bpm_nylon.wav by sleep                    	    ( http://freesound.org/people/sleep/ )
+030.wav by ORTALDJ                          	    ( http://freesound.org/people/ORTALDJ/ )
+12692__connum__movement-in-c.wav by connum	    ( http://freesound.org/people/Connum/)
